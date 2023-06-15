@@ -13,6 +13,10 @@ Para executar o projeto, siga as instruções abaixo:
 5. Em seguida, execute o comando `npm start` para iniciar o servidor de desenvolvimento.
 6. Abra o navegador e visite [http://localhost:3000](http://localhost:3000) para visualizar a aplicação.
 
+## Funcionalidades
+
+[x] Exibição de vídeos curtos de forma contínua
+
 ## Aprendendo mais
 
 Se você deseja aprender mais sobre o desenvolvimento de aplicativos React, confira a [documentação oficial do React](https://reactjs.org/). Lá você encontrará guias, tutoriais e exemplos para aprimorar suas habilidades de desenvolvimento.
